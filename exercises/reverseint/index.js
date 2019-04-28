@@ -13,11 +13,5 @@ function reverseInt(n) {
     return parseInt(reversed)*Math.sign(n);
 
 }
-reverseInt(15)
-reverseInt(981)
-reverseInt(500)
-reverseInt(0)
-reverseInt(-15)
-reverseInt(-90)
 
 module.exports = reverseInt;

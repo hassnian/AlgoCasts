@@ -27,6 +27,5 @@ function maxChar(str) {
     }
     return maxChar
 }
-maxChar("apple 123111")
 
 module.exports = maxChar;
